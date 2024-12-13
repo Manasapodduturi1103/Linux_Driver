@@ -1,1 +1,1 @@
-cmd_/home/km/Mirafra_training/Device_Driver/log_msg1/driver.mod := { echo  /home/km/Mirafra_training/Device_Driver/log_msg1/driver.o;  echo; } > /home/km/Mirafra_training/Device_Driver/log_msg1/driver.mod
+cmd_/home/km/Mirafra_LDD_BATCH/Linux_Driver/Device_deriver/log_msg1/driver.mod := { echo  /home/km/Mirafra_LDD_BATCH/Linux_Driver/Device_deriver/log_msg1/driver.o;  echo; } > /home/km/Mirafra_LDD_BATCH/Linux_Driver/Device_deriver/log_msg1/driver.mod

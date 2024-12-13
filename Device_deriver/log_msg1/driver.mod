@@ -1,2 +1,2 @@
-/home/km/Mirafra_training/Device_Driver/log_msg1/driver.o
+/home/km/Mirafra_LDD_BATCH/Linux_Driver/Device_deriver/log_msg1/driver.o
 

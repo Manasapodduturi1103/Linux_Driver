@@ -1,8 +1,8 @@
-cmd_/home/km/Mirafra_LDD_BATCH/Linux_Driver/Device_deriver/log_msg1/driver.o := gcc -Wp,-MD,/home/km/Mirafra_LDD_BATCH/Linux_Driver/Device_deriver/log_msg1/.driver.o.d  -nostdinc -isystem /usr/lib/gcc/x86_64-linux-gnu/7/include  -I./arch/x86/include -I./arch/x86/include/generated  -I./include -I./arch/x86/include/uapi -I./arch/x86/include/generated/uapi -I./include/uapi -I./include/generated/uapi -include ./include/linux/kconfig.h -Iubuntu/include  -include ./include/linux/compiler_types.h -D__KERNEL__ -Wall -Wundef -Werror=strict-prototypes -Wno-trigraphs -fno-strict-aliasing -fno-common -fshort-wchar -fno-PIE -Werror=implicit-function-declaration -Werror=implicit-int -Werror=return-type -Wno-format-security -std=gnu89 -mno-sse -mno-mmx -mno-sse2 -mno-3dnow -mno-avx -m64 -falign-jumps=1 -falign-loops=1 -mno-80387 -mno-fp-ret-in-387 -mpreferred-stack-boundary=3 -mskip-rax-setup -mtune=generic -mno-red-zone -mcmodel=kernel -DCONFIG_X86_X32_ABI -DCONFIG_AS_CFI=1 -DCONFIG_AS_CFI_SIGNAL_FRAME=1 -DCONFIG_AS_CFI_SECTIONS=1 -DCONFIG_AS_SSSE3=1 -DCONFIG_AS_AVX=1 -DCONFIG_AS_AVX2=1 -DCONFIG_AS_AVX512=1 -DCONFIG_AS_SHA1_NI=1 -DCONFIG_AS_SHA256_NI=1 -Wno-sign-compare -fno-asynchronous-unwind-tables -mindirect-branch=thunk-extern -mindirect-branch-register -fno-jump-tables -fno-delete-null-pointer-checks -Wno-frame-address -Wno-format-truncation -Wno-format-overflow -O2 --param=allow-store-data-races=0 -Wframe-larger-than=1024 -fstack-protector-strong -Wimplicit-fallthrough -Wno-unused-but-set-variable -Wno-unused-const-variable -fno-omit-frame-pointer -fno-optimize-sibling-calls -fno-var-tracking-assignments -pg -mrecord-mcount -mfentry -DCC_USING_FENTRY -Wdeclaration-after-statement -Wvla -Wno-pointer-sign -Wno-array-bounds -Wno-stringop-overflow -Wno-restrict -Wno-maybe-uninitialized -fno-strict-overflow -fno-merge-all-constants -fmerge-constants -fno-stack-check -fconserve-stack -Werror=date-time -Werror=incompatible-pointer-types -Werror=designated-init  -DMODULE  -DKBUILD_BASENAME='"driver"' -DKBUILD_MODNAME='"driver"' -c -o /home/km/Mirafra_LDD_BATCH/Linux_Driver/Device_deriver/log_msg1/driver.o /home/km/Mirafra_LDD_BATCH/Linux_Driver/Device_deriver/log_msg1/driver.c
+cmd_/home/km/Mirafra_LDD_BATCH/Linux_Driver/Device_deriver/kmalloc_Vmalloc/k_v_malloc.o := gcc -Wp,-MD,/home/km/Mirafra_LDD_BATCH/Linux_Driver/Device_deriver/kmalloc_Vmalloc/.k_v_malloc.o.d  -nostdinc -isystem /usr/lib/gcc/x86_64-linux-gnu/7/include  -I./arch/x86/include -I./arch/x86/include/generated  -I./include -I./arch/x86/include/uapi -I./arch/x86/include/generated/uapi -I./include/uapi -I./include/generated/uapi -include ./include/linux/kconfig.h -Iubuntu/include  -include ./include/linux/compiler_types.h -D__KERNEL__ -Wall -Wundef -Werror=strict-prototypes -Wno-trigraphs -fno-strict-aliasing -fno-common -fshort-wchar -fno-PIE -Werror=implicit-function-declaration -Werror=implicit-int -Werror=return-type -Wno-format-security -std=gnu89 -mno-sse -mno-mmx -mno-sse2 -mno-3dnow -mno-avx -m64 -falign-jumps=1 -falign-loops=1 -mno-80387 -mno-fp-ret-in-387 -mpreferred-stack-boundary=3 -mskip-rax-setup -mtune=generic -mno-red-zone -mcmodel=kernel -DCONFIG_X86_X32_ABI -DCONFIG_AS_CFI=1 -DCONFIG_AS_CFI_SIGNAL_FRAME=1 -DCONFIG_AS_CFI_SECTIONS=1 -DCONFIG_AS_SSSE3=1 -DCONFIG_AS_AVX=1 -DCONFIG_AS_AVX2=1 -DCONFIG_AS_AVX512=1 -DCONFIG_AS_SHA1_NI=1 -DCONFIG_AS_SHA256_NI=1 -Wno-sign-compare -fno-asynchronous-unwind-tables -mindirect-branch=thunk-extern -mindirect-branch-register -fno-jump-tables -fno-delete-null-pointer-checks -Wno-frame-address -Wno-format-truncation -Wno-format-overflow -O2 --param=allow-store-data-races=0 -Wframe-larger-than=1024 -fstack-protector-strong -Wimplicit-fallthrough -Wno-unused-but-set-variable -Wno-unused-const-variable -fno-omit-frame-pointer -fno-optimize-sibling-calls -fno-var-tracking-assignments -pg -mrecord-mcount -mfentry -DCC_USING_FENTRY -Wdeclaration-after-statement -Wvla -Wno-pointer-sign -Wno-array-bounds -Wno-stringop-overflow -Wno-restrict -Wno-maybe-uninitialized -fno-strict-overflow -fno-merge-all-constants -fmerge-constants -fno-stack-check -fconserve-stack -Werror=date-time -Werror=incompatible-pointer-types -Werror=designated-init  -DMODULE  -DKBUILD_BASENAME='"k_v_malloc"' -DKBUILD_MODNAME='"k_v_malloc"' -c -o /home/km/Mirafra_LDD_BATCH/Linux_Driver/Device_deriver/kmalloc_Vmalloc/k_v_malloc.o /home/km/Mirafra_LDD_BATCH/Linux_Driver/Device_deriver/kmalloc_Vmalloc/k_v_malloc.c
 
-source_/home/km/Mirafra_LDD_BATCH/Linux_Driver/Device_deriver/log_msg1/driver.o := /home/km/Mirafra_LDD_BATCH/Linux_Driver/Device_deriver/log_msg1/driver.c
+source_/home/km/Mirafra_LDD_BATCH/Linux_Driver/Device_deriver/kmalloc_Vmalloc/k_v_malloc.o := /home/km/Mirafra_LDD_BATCH/Linux_Driver/Device_deriver/kmalloc_Vmalloc/k_v_malloc.c
 
-deps_/home/km/Mirafra_LDD_BATCH/Linux_Driver/Device_deriver/log_msg1/driver.o := \
+deps_/home/km/Mirafra_LDD_BATCH/Linux_Driver/Device_deriver/kmalloc_Vmalloc/k_v_malloc.o := \
   include/linux/kconfig.h \
     $(wildcard include/config/cpu/big/endian.h) \
     $(wildcard include/config/booger.h) \
@@ -675,6 +675,19 @@ deps_/home/km/Mirafra_LDD_BATCH/Linux_Driver/Device_deriver/log_msg1/driver.o :=
     $(wildcard include/config/modules/use/elf/rel.h) \
     $(wildcard include/config/modules/use/elf/rela.h) \
   arch/x86/include/asm/orc_types.h \
+  include/linux/slab.h \
+    $(wildcard include/config/debug/slab.h) \
+    $(wildcard include/config/failslab.h) \
+    $(wildcard include/config/memcg/kmem.h) \
+    $(wildcard include/config/have/hardened/usercopy/allocator.h) \
+    $(wildcard include/config/slab.h) \
+    $(wildcard include/config/slub.h) \
+    $(wildcard include/config/slob.h) \
+  include/linux/percpu-refcount.h \
+  include/linux/kasan.h \
+    $(wildcard include/config/kasan/generic.h) \
+  include/linux/io.h \
+    $(wildcard include/config/have/arch/huge/vmap.h) \
   include/linux/fs.h \
     $(wildcard include/config/read/only/thp/for/fs.h) \
     $(wildcard include/config/fs/posix/acl.h) \
@@ -710,7 +723,6 @@ deps_/home/km/Mirafra_LDD_BATCH/Linux_Driver/Device_deriver/log_msg1/driver.o :=
     $(wildcard include/config/have/arch/hash.h) \
   include/linux/path.h \
   include/linux/list_lru.h \
-    $(wildcard include/config/memcg/kmem.h) \
   include/linux/shrinker.h \
   include/linux/pid.h \
   include/linux/capability.h \
@@ -847,14 +859,7 @@ deps_/home/km/Mirafra_LDD_BATCH/Linux_Driver/Device_deriver/log_msg1/driver.o :=
   include/linux/projid.h \
   include/uapi/linux/quota.h \
   include/linux/nfs_fs_i.h \
-  include/linux/uaccess.h \
-  arch/x86/include/asm/uaccess.h \
-    $(wildcard include/config/cc/has/asm/goto/tied/output.h) \
-    $(wildcard include/config/x86/intel/usercopy.h) \
-  arch/x86/include/asm/smap.h \
-  arch/x86/include/asm/extable.h \
-  arch/x86/include/asm/uaccess_64.h \
 
-/home/km/Mirafra_LDD_BATCH/Linux_Driver/Device_deriver/log_msg1/driver.o: $(deps_/home/km/Mirafra_LDD_BATCH/Linux_Driver/Device_deriver/log_msg1/driver.o)
+/home/km/Mirafra_LDD_BATCH/Linux_Driver/Device_deriver/kmalloc_Vmalloc/k_v_malloc.o: $(deps_/home/km/Mirafra_LDD_BATCH/Linux_Driver/Device_deriver/kmalloc_Vmalloc/k_v_malloc.o)
 
-$(deps_/home/km/Mirafra_LDD_BATCH/Linux_Driver/Device_deriver/log_msg1/driver.o):
+$(deps_/home/km/Mirafra_LDD_BATCH/Linux_Driver/Device_deriver/kmalloc_Vmalloc/k_v_malloc.o):
